@@ -1,0 +1,51 @@
+admcgilp@gmail.com
+
+Thank you for downloading this game and I hope you have lot's of fun playing it!
+
+This game is free for you to use
+
+
+Notes:
+
+1. Controls *Menu and Game*:
+
+   MENU:
+     Use the mouse scroll-wheel up Menu-up.
+     Use the mouse scroll-wheel down Menu-down.
+     Use the Left mouse button to Select/Sound volume down.
+     Use the Right mouse button to go Back/Sound volume up.
+   
+   GAME:
+     Use the mouse to move the cross-hair.
+     Use the Left mouse button to fire or to start/resume game.
+     Use the right mouse button to pause or Exit game.
+     Use the center mouse button to take a screenshot. 
+
+2. Edit your name on the *Hall_of_Fame*:
+
+   If you have made it into the Hall_of_Fame
+   Use the right mouse to delete the preset user name.
+   Use the scroll-wheel up and down to scroll through the characters.
+   Use the center mouse button (scroll-wheel button) to select a character.
+   Repeat until you have rented you name up to 13 characters.
+   And then use the left mouse button to save and exit.
+
+3. Useful *Hints and Tips*: 
+  
+   Set to full screen mode. 
+   Shoot the asteroids as fast as possible and start shooting 
+     before you see them.
+   Shoot the UFO and it will drop bombs that you must also shoot
+     for extra points and to get extra power and shields later on.
+   Shoot the power and shield icons to activate them.
+   Shoot the Alien-bugs twice to destroy them.
+
+4. Change testMode to True: 
+  
+   The Game will show the bounding rectangles and circles.
+   Scroll-wheel up will give you shields.
+   Scroll-wheel down will create UFO's.
+
+
+
+
